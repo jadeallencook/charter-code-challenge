@@ -1,0 +1,25 @@
+table.Table {
+  margin: 25px auto;
+  min-width: 1200px;
+  border: solid thin #ccc;
+  border-radius: 3px;
+  background-color: #fff;
+}
+
+table.Table > thead {
+  font-weight: bold;
+}
+
+table.Table > thead,
+table.Table > tbody > tr:nth-child(even) {
+  background-color: #ccc;
+}
+
+table.Table > thead > tr > th,
+table.Table > tbody > tr > td {
+  padding: 5px;
+}
+
+table.Table > tbody > tr > td.no-results {
+  text-align: center;
+}

@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/charter-code-challenge/build/static/css/main.4f79b956.chunk.css",
+    "main.js": "/charter-code-challenge/build/static/js/main.c5ceda43.chunk.js",
+    "main.js.map": "/charter-code-challenge/build/static/js/main.c5ceda43.chunk.js.map",
+    "runtime-main.js": "/charter-code-challenge/build/static/js/runtime-main.cb65926e.js",
+    "runtime-main.js.map": "/charter-code-challenge/build/static/js/runtime-main.cb65926e.js.map",
+    "static/js/2.a563899e.chunk.js": "/charter-code-challenge/build/static/js/2.a563899e.chunk.js",
+    "static/js/2.a563899e.chunk.js.map": "/charter-code-challenge/build/static/js/2.a563899e.chunk.js.map",
+    "index.html": "/charter-code-challenge/build/index.html",
+    "precache-manifest.fed2250985ebb9a5fa771186c9115d71.js": "/charter-code-challenge/build/precache-manifest.fed2250985ebb9a5fa771186c9115d71.js",
+    "service-worker.js": "/charter-code-challenge/build/service-worker.js",
+    "static/css/main.4f79b956.chunk.css.map": "/charter-code-challenge/build/static/css/main.4f79b956.chunk.css.map",
+    "static/js/2.a563899e.chunk.js.LICENSE.txt": "/charter-code-challenge/build/static/js/2.a563899e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cb65926e.js",
+    "static/js/2.a563899e.chunk.js",
+    "static/css/main.4f79b956.chunk.css",
+    "static/js/main.c5ceda43.chunk.js"
+  ]
+}

@@ -1,0 +1,9 @@
+div.Filters {
+  text-align: center;
+  margin: 25px auto;
+}
+
+div.Filters > select,
+div.Filters > input {
+  margin: 0 15px;
+}
